@@ -10,7 +10,7 @@ namespace ConsoleApplication28
     {
         static void Main(string[] args)
         {
-            int r; int с;
+            int v; int с;
 
         }
     }
