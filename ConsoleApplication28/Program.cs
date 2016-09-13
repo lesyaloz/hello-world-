@@ -12,6 +12,7 @@ namespace ConsoleApplication28
         {
             int a; int с;
 
+
         }
     }
 }
